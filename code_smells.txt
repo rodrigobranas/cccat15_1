@@ -1,0 +1,17 @@
+Code Smells:
+
+1 - Nomes ruins
+
+* renomear variáveis
+
+2 - linhas em branco
+
+3 - Código morto
+
+4 - Comentários
+
+5 - Condição aninhada
+
+6 - Tratamento inadequado de erros ou exceções
+
+7 - Variáveis declaradas em conjunto ou longe do local de utilização
